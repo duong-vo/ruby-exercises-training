@@ -1,0 +1,22 @@
+Knowledge check
+What are the basic arithmetic operators you can use on numbers? +, -, *, **, /, %
+What’s the difference between an integer and a float? an integer is a whole number, a float is a decimal number
+What method would you use to convert a float to an integer? to_i
+What method would you use to convert an integer to a float? to_f
+
+What is a string? A string is a group of characters denoted by '' or ""
+What are the differences between single and double quotes? "" will only work with string interpolation and escape characters
+What is string interpolation? evaluation of a string with a variable
+How do you concatenate strings? with +, <<, or .concat()
+What method would you use to change all the characters in your string to upper case? .upcase
+What are escape characters? Escape characters are used to represent white space characters like tab, new line
+How do you access a specific character or substring? use "string"[..]
+How do you convert other data types into strings? to_s 
+
+What is a symbol? Symbol is a unique data type that will be allocated in memory only once
+How do you create a symbol? To create a symbol, add ":" before the a variable
+What’s the difference between a symbol and a string? Since the symbol are only allocated once, the same symbol will point to the same place, while different strings will be allocated different places in memory
+
+What does true represent? True represent if a condition is met or something that is true
+What does false represent? False represent if a condition is not met or something that is false
+What does nil represent? nil represent empty or nothing 
