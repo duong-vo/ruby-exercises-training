@@ -1,4 +1,4 @@
-# The Odin Project Ruby Exercises
+# The Odin Project Ruby Exercises by Duong Vo
 
 ## About this repository
 
